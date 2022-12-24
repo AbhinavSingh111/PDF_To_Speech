@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271191690523",
+    "firebase_url": "https://pdf-to-speech-f1466-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pdf-to-speech-f1466",
+    "storage_bucket": "pdf-to-speech-f1466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271191690523:android:683844029498ac23d197be",
+        "android_client_info": {
+          "package_name": "com.example.pdftospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271191690523-sa1rv6otd3u9o2nqi4d63ojdhrmvi2m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOAEgblHJoJP9CpH9e0QRefWM9pDxoDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271191690523-sa1rv6otd3u9o2nqi4d63ojdhrmvi2m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
